@@ -1,5 +1,4 @@
-# Node.js dependencies
-node_modules/
+# Node.js dependenciesnode_modules/
 # Environment variables
 .env.env.local
 .env.development.env.test
